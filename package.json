@@ -1,0 +1,29 @@
+{
+  "name": "pi-python-boilerplate",
+  "version": "0.1.0",
+  "description": "Pi package that scaffolds agent-first Python projects with uv, Ruff, ty, pytest, and AGENTS.md.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SquidCorp/pi-python-boilerplate.git"
+  },
+  "homepage": "https://github.com/SquidCorp/pi-python-boilerplate",
+  "bugs": {
+    "url": "https://github.com/SquidCorp/pi-python-boilerplate/issues"
+  },
+  "files": [
+    "prompts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "pi-package",
+    "pi",
+    "pi-coding-agent",
+    "python",
+    "boilerplate",
+    "uv",
+    "ruff"
+  ]
+}
